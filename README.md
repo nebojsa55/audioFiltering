@@ -7,7 +7,11 @@ The goal of the script is to show the basic manipulation of data in Python in an
 This script allows you to load audio recordings in .wav format, display them in the time domain, then display the Fourier transform of the audio signal and filter with a Butterworth bandwidth filter. Then, the script allows you to view the Fourier transform of the filtered signal and save it to a new .wav file
 
 Check out:
+
 https://www.etf.bg.ac.rs/ - School of Electrical Engineering
-https://github.com/NadicaSm/  
+
+https://github.com/NadicaSm/
+
 http://automatika.etf.rs/sr/13e053msr
+
 http://automatika.etf.rs/sr/13e054mas
